@@ -1,6 +1,6 @@
 # Fortune Memory
 
-Join the teller in her layer and find out your fate in 'Fortune Memory. A classic fun card mini-game, where you click the cards and try to get a 'snap' in as little turns as possible. Keep your turns under 10 or your fate might just turn ugly.
+Join the Teller in her lair and find out your fate in 'Fortune Memory. A classic fun card mini-game, where you click the cards and try to get a 'snap' in as little turns as possible. Keep your turns under 10 or your fate might just turn ugly.
 
 > IMPORTANT NOTICE: This project is currently in the process of being built. The completed version of this game will be coming soon.
 
